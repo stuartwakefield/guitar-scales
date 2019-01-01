@@ -1,0 +1,17 @@
+body {
+  font: 1.25em / 1.5 Arial;
+}
+
+pre {
+  font-family: "Lucida Console", "Andale Mono";
+}
+
+.sym {
+  font-size: 0.75em;
+  vertical-align: top;
+}
+
+#frets {
+  width: 60em;
+  height: 8em;
+}
